@@ -1,5 +1,4 @@
 Ghost Binary — Linux Security Research PoC
-Overview
 
 Ghost Binary is a Linux security research Proof of Concept (PoC) exploring process behavior, local TCP communication, file-descriptor redirection, and executable packaging techniques.
 
