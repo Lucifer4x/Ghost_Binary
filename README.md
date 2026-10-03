@@ -74,3 +74,7 @@ Author
 Khushal Gaur
 
 GitHub: Lucifer4x
+
+## Proof of Concept
+
+![POC Screenshot](screenshots/Screenshot_2026-05-08_10_12_02.png)
